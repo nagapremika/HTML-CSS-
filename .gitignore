@@ -1,0 +1,13 @@
+404.html
+js/
+doc/
+.htaccess
+.gitattributes
+.editorconfig
+site.webmanifest
+robots.txt
+LICENSE.txt
+humans.txt
+favicon.ico
+browserconfig.xml
+
